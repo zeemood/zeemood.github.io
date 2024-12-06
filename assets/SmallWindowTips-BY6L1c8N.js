@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as t}from"./index-DCtu_N3L.js";const e={name:"SmallWindowTips",data(){return{}},mounted(){}},a={class:"small-window-tips"};function n(c,r,d,p,_,i){return t(),s("div",a,"请使用分辨率大于1200px的屏幕，以获得更好的体验")}const m=o(e,[["render",n],["__scopeId","data-v-44b44f6b"]]);export{m as default};
